@@ -50,14 +50,3 @@ This is a Flask app that receives a city name from an iOS app and redirects the 
 
 - Flask: A lightweight web framework for Python.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
